@@ -1,0 +1,23 @@
+{
+  "name": "livro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carvalhoteste/carvalhoteste.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carvalhoteste/carvalhoteste.github.io/issues"
+  },
+  "homepage": "https://github.com/carvalhoteste/carvalhoteste.github.io#readme"
+}
+
+"structure": {
+    "readme": "introducao.md"
+}
