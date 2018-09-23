@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](introducao.md)
-
-[primeira parte](primeira.md)
+* [Introduction](README.md)
+* [Primeira parte](primeira.md)
 
